@@ -4,21 +4,21 @@ Mind Insight is a mental-health support application designed to help users under
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🧠 Mental Health Tools
+###  Mental Health Tools
 - **Mood Tracker** – log daily emotions, visualize mood trends  
 - **Sleep Tracker** – monitor sleep duration & quality  
 - **Exercises & Yoga** – personalized routines based on user health  
 - **Motivational Videos** – short positive videos for mental refresh  
 - **Depression Management Course** – structured guidance & strategies  
 
-### 👩‍⚕️ Professional Support
+###  Professional Support
 - **Doctor Counseling** – secure online video consultation  
 - **Group Therapy Sessions**  
 - **Counselling for stress & emotional challenges**
 
-### 📱 Additional Features
+###  Additional Features
 - **Schedule Planner** – manage therapy sessions & exercise schedules  
 - **User Progress Reports**  
 - **Blogs & Helpful Articles**  
@@ -27,30 +27,30 @@ Mind Insight is a mental-health support application designed to help users under
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 📌 Frontend & App Development
+###  Frontend & App Development
 - **Flutter (Dart)**
 
-### 📌 Backend & Database
+### Backend & Database
 - **Firebase Authentication** – secure login/signup  
 - **Cloud Firestore** – store user data, doctors list, mood logs  
 - **Firebase Storage** – store images & media  
 
-### 📌 Integrations
+###  Integrations
 - **Google Gemini AI API** – intelligent recommendations & chatbot  
 - **Jitsi Meet SDK** – online video calls  
 - **FL Chart + Table Calendar** – analytics & scheduling UI  
 
 ---
 
-## 📦 App Architecture
+##  App Architecture
 - **MVC Architecture** – maintainable and scalable code  
 - **Provider State Management**
 
 ---
 
-## 🎨 UI/UX Design
+##  UI/UX Design
 - Soft, calming **pink theme** – `Color(0xFFE91E63)`  
 - Clean, simple, mental-health-friendly interface  
 - Modern card-based layout  
@@ -75,9 +75,9 @@ Diary Number: **SW-44850/2025-CO**
 
 ---
 
-##logo of app
+## logo of app
 <img width="484" height="477" alt="Screenshot 2025-11-17 213614" src="https://github.com/user-attachments/assets/0ea9a729-6293-47c4-8a26-52492e71244e" />
-##Frontend
+## Frontend
 <img width="279" height="569" alt="Screenshot 2025-11-17 213713" src="https://github.com/user-attachments/assets/78dc13f8-3f89-48d5-b843-b4aa8550f668" />
 <img width="298" height="681" alt="Screenshot 2025-11-17 213651" src="https://github.com/user-attachments/assets/efc43cfa-2709-46b6-bc44-d72a8bb2e2dd" />
 
