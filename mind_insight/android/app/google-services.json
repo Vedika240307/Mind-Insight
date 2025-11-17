@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "471974390437",
+    "project_id": "mindinsight-a8414",
+    "storage_bucket": "mindinsight-a8414.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471974390437:android:0d2df2cbcab95ce221fb4c",
+        "android_client_info": {
+          "package_name": "com.designmaverics.mindinsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471974390437-nuermba0tcrn94urgqjehgu4ubejndoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fr8Uc25X3bAKnaIGWmwPXZZ8NCFZBq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471974390437-nuermba0tcrn94urgqjehgu4ubejndoc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471974390437-sjsqvm531c0qs2sui4us9d7iddi8mnco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mindInsight"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

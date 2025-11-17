@@ -1,0 +1,2 @@
+C:/mind_insight/mind_insight/android/app/.cxx/debug/3yn4f4r4/x86_64/CMakeFiles/edit_cache.dir
+C:/mind_insight/mind_insight/android/app/.cxx/debug/3yn4f4r4/x86_64/CMakeFiles/rebuild_cache.dir

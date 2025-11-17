@@ -1,0 +1,90 @@
+name: mind_insight
+description: Mind Insight Flutter App
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 🔥 Firebase (Updated stable versions)
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.3.0
+  cloud_firestore: ^5.4.4
+
+  # 🧠 App Utilities
+  provider: ^6.1.5
+  permission_handler: ^12.0.1
+
+  # 📷 Camera + ML Kit
+  camera: ^0.11.2
+  google_mlkit_face_detection: ^0.13.1
+  google_mlkit_commons: ^0.11.0
+
+  # 📊 Graphs & Charts (for progress report)
+  fl_chart: ^0.66.2
+
+  # 📅 Calendar + Date Utilities
+  table_calendar: ^3.1.0
+  intl: ^0.19.0
+
+  # 🍏 Icons
+  cupertino_icons: ^1.0.8
+
+  # 🎥 Video Call (Therapy sessions)
+  jitsi_meet_flutter_sdk: ^11.6.0
+
+  # ⭐ Ratings
+  flutter_rating_bar: ^4.0.1
+
+  # 💬 Chat UI
+  flutter_chat_ui: ^2.9.1
+  flutter_chat_types: ^3.6.2
+
+  # 🤖 Gemini AI (Chatbot)
+  http: ^1.2.1
+  google_generative_ai: ^0.4.3
+
+  # 🚀 App Icons
+  flutter_launcher_icons: ^0.14.4
+
+  # 💫 Splash Screen
+  flutter_native_splash: ^2.4.1
+
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  change_app_package_name: ^1.2.0
+
+flutter:
+  uses-material-design: true
+
+  # 🧩 App Assets
+  assets:
+    - assets/mind_insight_logo.png
+    - assets/default_doctor.png
+    # OR you can use:
+    # - assets/
+
+# 🚀 App Icon Configuration
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/mind_insight_logo.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/mind_insight_logo.png"
+
+# 💫 Splash Screen Configuration
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: "assets/mind_insight_logo.png"
+  android: true
+  ios: true
+  web: true

@@ -1,0 +1,1 @@
+C:\mind_insight\mind_insight\android\app\build\intermediates\cxx\release\rt4d3f38\obj\x86_64
